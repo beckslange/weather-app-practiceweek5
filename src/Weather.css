@@ -7,12 +7,24 @@
   color: rgb(135, 135, 135);
 }
 
+h1 {
+  font-size: 24px;
+  line-height: 29px;
+  color: rgb(135, 135, 135);
+}
 .weather-icon {
   width: 70px;
   height: 70px;
   display: inline-block;
 }
 
+.unit {
+  font-size: 24px;
+  position: relative;
+  top: -12px;
+}
+
 .temperature {
   font-size: 60px;
+  color: #212121;
 }
