@@ -4,7 +4,7 @@ import "./Weather.css";
 
 export default function Weather() {
   return (
-    <div className="Weather">
+    <div className="Weather mt-5">
       <h1>Hello World</h1>
     </div>
   );
